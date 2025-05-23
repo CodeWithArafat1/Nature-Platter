@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-hero: #efebe3;
+  --color-footer: #179800;
+  --color-prduct: #95e986;
+  --color-offer1: #115414;
+  --color-offer2: #102861;
+}
